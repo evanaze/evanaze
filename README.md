@@ -23,6 +23,6 @@ I am currently...
 [<img align="left" alt="evanaze | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="evanaze | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="evanaze | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-[<img align="left" alt="evanaze | Website" width="22px" src="https://www.flaticon.com/free-icon/globe_2301129?related_item_id=2301129&term=website" />][website]
+[<img align="left" alt="evanaze | Website" width="22px" src="https://commons.wikimedia.org/wiki/File:Globe_icon.svg" />][website]
 <br />
 
