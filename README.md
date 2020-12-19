@@ -14,7 +14,9 @@ I am currently...
 * :book: learning everything there is to know about deep learning.
 * :desktop_computer: considering starting a Twitch stream of my adventures solving Kaggle problems and building deep learning models.
 
-[/[![Evan's github stats](https://github-readme-stats.vercel.app/api?username=evanaze)](https://github.com/anuraghazra/github-readme-stats)/]
+<!-- Stats -->
+[![Evan's github stats](https://github-readme-stats.vercel.app/api?username=evanaze)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="evanaze | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
