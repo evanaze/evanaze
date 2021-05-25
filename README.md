@@ -3,7 +3,7 @@
 [github]: https://www.github.com/evanaze
 [linkedin]: https://www.linkedin.com/in/evanaze/
 [gmail]: mailto:evanaze@gmail.com
-[website]: https://evanaze.github.io
+[website]: https://www.evanazevedo.com
 
 ### Hi there, I am Evan Azevedo :wave:
 
