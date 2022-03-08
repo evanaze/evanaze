@@ -3,7 +3,7 @@
 [github]: https://www.github.com/evanaze
 [linkedin]: https://www.linkedin.com/in/evanaze/
 [gmail]: mailto:evanaze@gmail.com
-[website]: https://www.evanazevedo.com
+[website]: https://evanazevedo.com
 
 ### Hi there, I am Evan Azevedo :wave:
 
@@ -19,9 +19,16 @@ I am currently...
 -->
 ### Connect with me:
 
-(:bird:)[https://www.twitter.com/azevedo_evan]
-[<img align="left" alt="evanaze | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="evanaze | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-[<img align="left" alt="evanaze | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" />][website]
+<div id="badges">
+  <a href="https://www.linkedin.com/in/evanaze/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href=https://evanazevedo.com>
+    <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=hugo&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.twitter.com/azevedo_evan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <br />
 
