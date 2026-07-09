@@ -7,12 +7,7 @@
 
 ### Hi there, I am Evan Azevedo :wave:
 
-I am a software engineer at Joby Aviation, and I am interested in data science and machine learning.  
-
-I am currently...
-* :sweat_drops: taming Arch Linux and Vim to create the ultimate workspace.
-* :book: learning everything there is to know about deep learning.
-* :desktop_computer: considering starting a Twitch stream of my adventures solving Kaggle problems and building deep learning models.
+I am a freelance data engineer, and I am interested in data science and machine learning.  
 
 <!-- Stats 
 [![Evan's github stats](https://github-readme-stats.vercel.app/api?username=evanaze)](https://github.com/anuraghazra/github-readme-stats)
